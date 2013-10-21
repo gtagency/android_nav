@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>android_nav</name>
+  <version>0.0.0</version>
+  <description>
+    Android Navigation sensor package.
+  </description>
+  <url>http://www.gtagency.org</url>
+  <maintainer email="jesse.rosalia@gatech.edu">Jesse Rosalia</maintainer>
+  <author email="jesse.rosalia@gatech.edu">Jesse Rosalia</author>
+  <author email="jonathan.suit@gmail.com">Jonathan Suit</author>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
+
